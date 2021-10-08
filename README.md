@@ -1,2 +1,2 @@
-# imageretrieval
-image retrieval
+# computer_vision
+computer vision
